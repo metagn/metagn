@@ -1,18 +1,21 @@
-Hello, I am currently a student at Middle East Technical University. I have experience with many languages, but currently I mostly use Nim. My most significant projects include:
+Hello, I am currently a student at Middle East Technical University. I have experience with many languages, chiefly Java/JVM languages and Python, but currently I mostly use Nim. My most significant projects include:
 
-* [marggers](https://github.com/metagn/marggers), a markdown dialect with the goal of customization for websites
-* [kismet](https://github.com/metagn/kismet), my first major attempt at a programming language
-* [fup1](https://github.com/metagn/fup1), tetris implementation as an experiment with macros for more games in the future
-* [bazy](https://github.com/metagn/bazy), in-development experimental scripting language with a focus on types, macros and dynamic dispatch
 * [Contributions to Nim](https://github.com/nim-lang/Nim/commits?author=metagn)
-* Several small Nim libraries:
-  - [applicates](https://github.com/metagn/applicates), anonymous symbols or declarations as values for efficient FP-like constructs
-  - [assigns](https://github.com/metagn/assigns), unpacking/matching macro library
-  - [grab](https://github.com/metagn/grab), a macro for installing and importing a package through nimble for scripts and such
-  - [shorteststring](https://github.com/metagn/shorteststring), implementation of a very small string stored in a word-size integer
-  - [sliceutils](https://github.com/metagn/sliceutils), some abstractions on slices + tuple slicing
-  - [spread](https://github.com/metagn/spread), a macro for spreading a block of arguments into a routine call or collection literal
-  - [variantsugar](https://github.com/metagn/variantsugar), macros mainly meant for object variants that interface directly with existing types
+* [marggers](https://github.com/metagn/marggers) - portable and configurable parser for a markdown dialect
+* [bazy](https://github.com/metagn/bazy) - in-development scripting language with a focus on types, macros and dynamic dispatch
+* Several Nim libraries:
+  - [grab](https://github.com/metagn/grab) - installing and directly importing nimble packages at compile time
+  - [variantsugar](https://github.com/metagn/variantsugar) - in-place, stackable object variant utility macros with pragma syntax support
+  - [assigns](https://github.com/metagn/assigns) - pattern matching/unpacking macros for Nim
+  - [applicates](https://github.com/metagn/applicates) - Nim compile time mechanism allowing anonymous templates and passing around symbols as values
+  - [sliceutils](https://github.com/metagn/sliceutils) - utilities and abstractions for the Slice type
+  - [shorteststring](https://github.com/metagn/shorteststring) - implementation of a very small string stored in a word-size integer
+  - [spread](https://github.com/metagn/spread) - macro for applying a block of arguments in a routine call or collection literal
+
+Other projects include:
+
+* [kismet](https://github.com/metagn/kismet) - first experience in programming language development
+* [fup1](https://github.com/metagn/fup1) - tetris implementation centered around a custom macro system
 
 Links:
 

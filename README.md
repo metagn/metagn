@@ -10,7 +10,7 @@ Hello, I am a mostly freelance programmer currently studying mathematics at Midd
   - [applicates](https://github.com/metagn/applicates) - compile time anonymous templates and symbols as values
   - [sliceutils](https://github.com/metagn/sliceutils) - utilities and abstractions for the Slice type
   - [shorteststring](https://github.com/metagn/shorteststring) - word-size stack string implementation
-  - [spread](https://github.com/metagn/spread) - macro for applying a block of arguments in a routine call or collection literal
+  - [spread](https://github.com/metagn/spread) - macro for block arguments for function calls/collection literals
 
 Other projects include:
 

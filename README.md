@@ -1,4 +1,6 @@
-Hello, I am a mostly freelance programmer currently studying mathematics at Middle East Technical University. I have experience with a variety of languages, the most being with Java/JVM languages and Python, but currently I mostly use Nim. My most significant projects include:
+Donations: https://www.buymeacoffee.com/metagn
+
+Hello, I am a mostly open source developer currently studying mathematics at Middle East Technical University. I have experience with a variety of languages, the most being with Java/JVM languages and Python, but recently I've used Nim a lot. My most significant projects include:
 
 * [Contributions to Nim](https://github.com/nim-lang/Nim/commits?author=metagn)
 * [marggers](https://github.com/metagn/marggers) - portable and configurable parser for a markdown dialect
@@ -11,6 +13,8 @@ Hello, I am a mostly freelance programmer currently studying mathematics at Midd
   - [sliceutils](https://github.com/metagn/sliceutils) - utilities and abstractions for the Slice type
   - [shorteststring](https://github.com/metagn/shorteststring) - word-size stack string implementation
   - [spread](https://github.com/metagn/spread) - macro for block arguments for function calls/collection literals
+  
+If you want to support my work please consider donating over [Buy Me a Coffee](https://www.buymeacoffee.com/metagn). Being a student in Turkey, any amount means a lot.
 
 Other projects include:
 
@@ -19,4 +23,5 @@ Other projects include:
 
 Links:
 
-* [Codewars](https://www.codewars.com/users/metagn) (only use it when bored but somehow racked up a lot of points)
+* [Codewars](https://www.codewars.com/users/metagn) - shows some of my diverse language experience 
+* [Buy Me a Coffee](https://www.buymeacoffee.com/metagn) - donations, as stated above

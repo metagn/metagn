@@ -12,7 +12,7 @@ Hello, I am a mostly open source developer currently studying mathematics at Mid
 * [marggers](https://github.com/metagn/marggers) - portable and configurable parser for a markdown dialect
 * [bazy](https://github.com/metagn/bazy) - in-development scripting language with a focus on types, macros and dynamic dispatch
   
-If you want to support my work please consider sponsoring or donating over [Buy Me a Coffee](https://www.buymeacoffee.com/metagn). Being a student in Turkey, any amount means a lot.
+If you want to support my work please consider sponsoring or donating. Being a student in Turkey, any amount means a lot.
 
 Other projects include:
 

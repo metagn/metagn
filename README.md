@@ -2,13 +2,14 @@ Hello, I am a mostly open source developer currently studying mathematics at Mid
 
 * [Contributions to Nim](https://github.com/nim-lang/Nim/commits?author=metagn)
 * Several Nim libraries:
-  - [grab](https://github.com/metagn/grab) - direct package install and import statement in Nim code
-  - [variantsugar](https://github.com/metagn/variantsugar) - in-place, chainable object variant utility macros with pragma syntax support
-  - [assigns](https://github.com/metagn/assigns) - overloadable pattern matching/unpacking macros for Nim
-  - [applicates](https://github.com/metagn/applicates) - compile time anonymous templates and symbols as values
-  - [sliceutils](https://github.com/metagn/sliceutils) - utilities and abstractions for the Slice type
-  - [shorteststring](https://github.com/metagn/shorteststring) - word-size stack string implementation
-  - [spread](https://github.com/metagn/spread) - macro for block arguments for function calls/collection literals
+  - [applicates](https://github.com/metagn/applicates)
+  - [assigns](https://github.com/metagn/assigns)
+  - [grab](https://github.com/metagn/grab)
+  - [variantsugar](https://github.com/metagn/variantsugar)
+  - [sliceutils](https://github.com/metagn/sliceutils)
+  - [shorteststring](https://github.com/metagn/shorteststring)
+  - [spread](https://github.com/metagn/spread)
+  - [etf](https://github.com/metagn/etf)
 * [marggers](https://github.com/metagn/marggers) - portable and configurable parser for a markdown dialect
 * [bazy](https://github.com/metagn/bazy) - in-development scripting language with a focus on types, macros and dynamic dispatch
   

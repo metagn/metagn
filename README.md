@@ -9,6 +9,7 @@ Hello, I am a mostly open source developer currently studying mathematics at Mid
   - [sliceutils](https://github.com/metagn/sliceutils)
   - [shorteststring](https://github.com/metagn/shorteststring)
   - [spread](https://github.com/metagn/spread)
+  - [funnycapitalism](https://github.com/metagn/funnycapitalism)
   - [etf](https://github.com/metagn/etf)
 * [marggers](https://github.com/metagn/marggers) - portable and configurable parser for a markdown dialect
 * [bazy](https://github.com/metagn/bazy) - in-development scripting language with a focus on types, macros and dynamic dispatch

@@ -1,4 +1,4 @@
-Hello, I am a mostly open source developer currently studying mathematics at Middle East Technical University. I have experience with a variety of languages, the most being with Java/JVM languages and Python, but recently I've used Nim a lot. My most significant projects include:
+Hello, I am metagn. I'm mainly a hobbyist/open source developer. I have experience with a variety of languages, the most being with Java/JVM languages, but recently I've used Nim a lot. My most significant projects include:
 
 * [Contributions to Nim](https://github.com/nim-lang/Nim/commits?author=metagn)
 * Several Nim libraries:
@@ -23,5 +23,5 @@ Other projects include:
 
 Links:
 
-* [Codewars](https://www.codewars.com/users/metagn) - shows some of my diverse language experience 
+* [Codewars](https://www.codewars.com/users/metagn) - example of my diverse language knowledge 
 * [Buy Me a Coffee](https://www.buymeacoffee.com/metagn) - alternative donations to sponsoring

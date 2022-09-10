@@ -7,7 +7,6 @@ Some of my projects are:
 * [Contributions to Nim](https://github.com/nim-lang/Nim/commits?author=metagn)
 * Several Nim libraries, see below
 * [marggers](https://github.com/metagn/marggers) - portable and configurable parser for a markdown dialect
-* [bazy](https://github.com/metagn/bazy) - in-development scripting language with a focus on types, macros and dynamic dispatch
 
 Nim libraries:
 
@@ -22,6 +21,10 @@ Nim libraries:
 | [shorteststring](https://github.com/metagn/shorteststring) | word-size string |
 | [etf](https://github.com/metagn/etf) | ETF library |
 | [funnycapitalism](https://github.com/metagn/funnycapitalism) | barebones discord library |
+
+Ongoing projects:
+
+* [bazy](https://github.com/metagn/bazy) - in-development scripting language with a focus on types, macros and dynamic dispatch
 
 Other, less active projects include:
 

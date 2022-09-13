@@ -19,14 +19,19 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 
 #### Nim libraries
 
-|  | most can be found on [nimble](https://nimble.directory) | 
+|  | installable with [nimble](https://github.com/nim-lang/nimble) | 
 | --: | :-- |
-| [grab](https://github.com/metagn/grab) | inline package installs, like groovy @Grab |
-| [applicates](https://github.com/metagn/applicates) | first-class templates/AST/symbols |
-| [assigns](https://github.com/metagn/assigns) | overloadable pattern matching |
-| [variantsugar](https://github.com/metagn/variantsugar) | stackable utility macros for object variants |
-| [spread](https://github.com/metagn/spread) | block syntax for calls/literals/constructors |
-| [sliceutils](https://github.com/metagn/sliceutils) | slice/range abstractions |
-| [shorteststring](https://github.com/metagn/shorteststring) | word-size string |
-| [etf](https://github.com/metagn/etf) | ETF library |
+| [grab](https://github.com/metagn/grab)* | inline package installs, like groovy @Grab |
+| [applicates](https://github.com/metagn/applicates)* | first-class templates/AST/symbols |
+| [assigns](https://github.com/metagn/assigns)* | overloadable pattern matching |
+| [variantsugar](https://github.com/metagn/variantsugar)* | stackable utility macros for object variants |
+| [spread](https://github.com/metagn/spread)* | block syntax for calls/literals/constructors |
+| [sliceutils](https://github.com/metagn/sliceutils)* | slice/range abstractions |
+| [shorteststring](https://github.com/metagn/shorteststring)* | word-size string |
+| [nimbleutils](https://github.com/metagn/nimbleutils) | personal library for nimble tasks used in CI |
 | [funnycapitalism](https://github.com/metagn/funnycapitalism) | barebones discord library |
+| [etf](https://github.com/metagn/etf)* | erlang term format |
+| [sdlutils](https://github.com/metagn/sdlutils) | small SDL helpers |
+| [pagegen](https://github.com/metagn/pagegen) | personal library for generating webpages |
+
+\* on the [nimble package registry](https://github.com/nim-lang/packages), can be installed with `nimble install <name>`

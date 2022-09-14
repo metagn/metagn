@@ -19,7 +19,7 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 
 #### Nim libraries
 
-|  | installable with [nimble](https://github.com/nim-lang/nimble) | 
+|  | installable with [nimble](https://github.com/nim-lang/nimble) (`nimble install <url>`) | 
 | --: | :-- |
 | [grab](https://github.com/metagn/grab)* | inline package installs, like groovy @Grab |
 | [applicates](https://github.com/metagn/applicates)* | first-class templates/AST/symbols |

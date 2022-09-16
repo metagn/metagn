@@ -1,4 +1,4 @@
-Hello, I am metagn, mainly a hobbyist/open source developer. I have experience with a variety of languages, the most being with Java/JVM languages, but I've mostly used Nim for the last couple of years. 
+Hello. I am mainly a hobbyist/open source developer. I have experience with a variety of languages, the most being with Java/JVM languages, but I've mostly used Nim for the last couple of years. 
 
 If you want to support my work please consider [sponsoring](https://github.com/sponsors/metagn/) or [donating](https://www.buymeacoffee.com/metagn). Being a student in Turkey, any amount means a lot.
 

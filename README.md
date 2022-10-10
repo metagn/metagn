@@ -32,6 +32,5 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 | [funnycapitalism](https://github.com/metagn/funnycapitalism) | barebones discord library |
 | [etf](https://github.com/metagn/etf)* | erlang term format |
 | [sdlutils](https://github.com/metagn/sdlutils) | small SDL helpers |
-| [pagegen](https://github.com/metagn/pagegen) | personal library for generating webpages |
 
 \* on the [nimble package registry](https://github.com/nim-lang/packages), can be installed with `nimble install <name>`

@@ -11,7 +11,7 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 
 | Projects | |
 | --: | :-- |
-| [Nim](https://github.com/nim-lang/Nim/commits?author=metagn) | personal contributions to the Nim programming language |
+| [Nim](https://github.com/nim-lang/Nim/pulls?q=is%3Apr+author%3Ametagn) | personal contributions to the Nim programming language |
 | [bazy](https://github.com/metagn/bazy) | (in development) scripting language with a focus on types, macros and dynamic dispatch |
 | [fup1](https://github.com/metagn/fup1) | multi-platform tetris implementation as an experiment of practical metaprogramming |
 | [kismet](https://github.com/metagn/kismet) | first programming language, mostly a mix of tcl/rebol/lisp/nim |

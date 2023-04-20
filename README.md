@@ -18,10 +18,10 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 | Nim libraries | installable with [nimble](https://github.com/nim-lang/nimble) (`nimble install <url>`) | 
 | --: | :-- |
 | [**marggers**](https://github.com/metagn/marggers)* | portable and configurable parser for a markdown dialect |
-| [**grab**](https://github.com/metagn/grab)* | inline package installs, like groovy @Grab |
 | [**applicates**](https://github.com/metagn/applicates)* | first-class templates/AST/symbols |
 | [**assigns**](https://github.com/metagn/assigns)* | overloadable pattern matching |
 | [**nuance**](https://github.com/metagn/nuance)* | runtime nim AST generation with line info, later compiled |
+| [**grab**](https://github.com/metagn/grab)* | inline package installs, like groovy @Grab |
 | [etf](https://github.com/metagn/etf)* | erlang term format |
 | [shorteststring](https://github.com/metagn/shorteststring)* | word-size string |
 | [sliceutils](https://github.com/metagn/sliceutils)* | slice/range abstractions |

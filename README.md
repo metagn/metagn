@@ -22,6 +22,7 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 | [**assigns**](https://github.com/metagn/assigns)* | overloadable pattern matching |
 | [**nuance**](https://github.com/metagn/nuance)* | runtime nim AST generation with line info, later compiled |
 | [**grab**](https://github.com/metagn/grab)* | inline package installs, like groovy @Grab |
+| [dirtydeeds](https://github.com/metagn/dirtydeeds)* | macro for partially applied calls | 
 | [etf](https://github.com/metagn/etf)* | erlang term format |
 | [shorteststring](https://github.com/metagn/shorteststring)* | word-size string |
 | [sliceutils](https://github.com/metagn/sliceutils)* | slice/range abstractions |

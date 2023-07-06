@@ -1,4 +1,4 @@
-If you want to support my work please consider [sponsoring](https://github.com/sponsors/metagn/) or [donating](https://www.buymeacoffee.com/metagn). Being a student in Turkey, any amount means a lot.
+If you want to support my work please consider [sponsoring](https://github.com/sponsors/metagn/) (including one-time donations) or [donating](https://www.buymeacoffee.com/metagn). Being a student in Turkey, any amount means a lot.
 
 
 #### Links

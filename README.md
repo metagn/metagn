@@ -22,14 +22,15 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 | [**assigns**](https://github.com/metagn/assigns)* | overloadable pattern matching |
 | [**nuance**](https://github.com/metagn/nuance)* | runtime nim AST generation with line info, later compiled |
 | [**grab**](https://github.com/metagn/grab)* | inline package installs, like groovy @Grab |
-| [dirtydeeds](https://github.com/metagn/dirtydeeds)* | macro for partially applied calls | 
-| [etf](https://github.com/metagn/etf)* | erlang term format |
-| [shorteststring](https://github.com/metagn/shorteststring)* | word-size string |
+| [skinsuit](https://github.com/metagn/skinsuit)* | stackable utility macros for object variants |
 | [sliceutils](https://github.com/metagn/sliceutils)* | slice/range abstractions |
+| [shorteststring](https://github.com/metagn/shorteststring)* | word-size string |
+| [dirtydeeds](https://github.com/metagn/dirtydeeds)* | macro for partially applied calls | 
 | [spread](https://github.com/metagn/spread)* | block syntax for calls/literals/constructors |
-| [variantsugar](https://github.com/metagn/variantsugar)* | stackable utility macros for object variants |
+| [etf](https://github.com/metagn/etf)* | erlang term format |
+| [niv/websocket.nim](https://github.com/niv/websocket.nim) | (co-maintainer) |
+| [funnycapitalism](https://github.com/metagn/funnycapitalism) | (inactive) barebones Discord library |
 | [nashorn](https://github.com/metagn/nimnashorn) | (inactive) nim wrapper for Nashorn JS runtime on the JVM |
 | [nimedscript](https://github.com/metagn/NimEdScript) | (inactive) nim wrapper for EdisonScript in FL Studio |
-| [niv/websocket.nim](https://github.com/niv/websocket.nim) | (co-maintainer) |
 
 \* on the [nimble package registry](https://github.com/nim-lang/packages), can be installed with `nimble install <name>`

@@ -1,4 +1,4 @@
-If you want to support my work please consider [sponsoring](https://github.com/sponsors/metagn/) (including one-time donations) or [donating](https://www.buymeacoffee.com/metagn). Being a student in Turkey, any amount means a lot.
+If you want to support my work please consider [sponsoring](https://github.com/sponsors/metagn/) (no fees) or [donating via Buy Me a Coffee](https://www.buymeacoffee.com/metagn). Being a student in Turkey, any amount means a lot.
 
 
 #### Links
@@ -10,22 +10,23 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 | Projects | |
 | --: | :-- |
 | [Nim](https://github.com/nim-lang/Nim/pulls?q=is%3Apr+author%3Ametagn) | personal contributions to the Nim programming language |
+| [marggers](https://github.com/metagn/marggers)* | portable and configurable parser for a markdown dialect |
 | Nim libraries | see below |
-| [bazy](https://github.com/metagn/bazy) | (in development) scripting language with a focus on types, macros and dynamic dispatch |
-| [fup1](https://github.com/metagn/fup1) | multi-platform tetris implementation as an experiment of practical metaprogramming |
-| [kismet](https://github.com/metagn/kismet) | first programming language, mostly a mix of tcl/rebol/lisp/nim |
+| [fup1](https://github.com/metagn/fup1) | tetris for web and desktop using practical metaprogramming |
+| [bazy](https://github.com/metagn/bazy) | (in development) scripting language with a focus on dispatch |
+| [kismet](https://github.com/metagn/kismet) | (old) first programming language |
 
 | Nim libraries | installable with [nimble](https://github.com/nim-lang/nimble) (`nimble install <url>`) | 
 | --: | :-- |
-| [**marggers**](https://github.com/metagn/marggers)* | portable and configurable parser for a markdown dialect |
-| [**applicates**](https://github.com/metagn/applicates)* | first-class templates/AST/symbols |
-| [**assigns**](https://github.com/metagn/assigns)* | overloadable pattern matching |
-| [**nuance**](https://github.com/metagn/nuance)* | runtime nim AST generation with line info, later compiled |
-| [**grab**](https://github.com/metagn/grab)* | inline package installs, like groovy @Grab |
+| [applicates](https://github.com/metagn/applicates)* | first-class templates/symbols |
+| [assigns](https://github.com/metagn/assigns)* | overloadable pattern matching |
+| [grab](https://github.com/metagn/grab)* | inline package installs (like groovy @Grab) |
+| [nuance](https://github.com/metagn/nuance)* | runtime nim AST generation with line info for later compilation |
+| [lispnim](https://github.com/metagn/lispnim) | lisp syntax for nim using nuance | 
 | [skinsuit](https://github.com/metagn/skinsuit)* | stackable utility macros for object variants |
 | [sliceutils](https://github.com/metagn/sliceutils)* | slice/range abstractions |
 | [shorteststring](https://github.com/metagn/shorteststring)* | word-size string |
-| [dirtydeeds](https://github.com/metagn/dirtydeeds)* | macro for partially applied calls | 
+| [dirtydeeds](https://github.com/metagn/dirtydeeds)* | sugar for partially applied calls | 
 | [spread](https://github.com/metagn/spread)* | block syntax for calls/literals/constructors |
 | [etf](https://github.com/metagn/etf)* | erlang term format |
 | [niv/websocket.nim](https://github.com/niv/websocket.nim) | (co-maintainer) |

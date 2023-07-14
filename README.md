@@ -23,11 +23,11 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 | [grab](https://github.com/metagn/grab)* | inline package installs (like groovy @Grab) |
 | [nuance](https://github.com/metagn/nuance)* | runtime nim AST generation with line info for later compilation |
 | [lispnim](https://github.com/metagn/lispnim) | lisp syntax for nim using nuance | 
-| [skinsuit](https://github.com/metagn/skinsuit)* | stackable utility macros for object variants |
 | [sliceutils](https://github.com/metagn/sliceutils)* | slice/range abstractions |
+| [skinsuit](https://github.com/metagn/skinsuit)* | stackable utility macros for object variants |
 | [shorteststring](https://github.com/metagn/shorteststring)* | word-size string |
-| [dirtydeeds](https://github.com/metagn/dirtydeeds)* | sugar for partially applied calls | 
 | [spread](https://github.com/metagn/spread)* | block syntax for calls/literals/constructors |
+| [dirtydeeds](https://github.com/metagn/dirtydeeds)* | sugar for partially applied calls | 
 | [etf](https://github.com/metagn/etf)* | erlang term format |
 | [niv/websocket.nim](https://github.com/niv/websocket.nim) | (co-maintainer) |
 | [funnycapitalism](https://github.com/metagn/funnycapitalism) | (inactive) barebones Discord library |

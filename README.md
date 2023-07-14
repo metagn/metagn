@@ -10,8 +10,8 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 | Projects | |
 | --: | :-- |
 | [Nim](https://github.com/nim-lang/Nim/pulls?q=is%3Apr+author%3Ametagn) | personal contributions to the Nim programming language |
-| [marggers](https://github.com/metagn/marggers)* | portable and configurable parser for a markdown dialect |
 | Nim libraries | see below |
+| [marggers](https://github.com/metagn/marggers) | markdown dialect |
 | [fup1](https://github.com/metagn/fup1) | tetris for web and desktop using practical metaprogramming |
 | [bazy](https://github.com/metagn/bazy) | (in development) scripting language with a focus on dispatch |
 | [kismet](https://github.com/metagn/kismet) | (old) first programming language |
@@ -21,6 +21,7 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 | [assigns](https://github.com/metagn/assigns)* | overloadable pattern matching |
 | [applicates](https://github.com/metagn/applicates)* | first-class templates/symbols |
 | [grab](https://github.com/metagn/grab)* | inline package installs (like groovy @Grab) |
+| [marggers](https://github.com/metagn/marggers)* | portable and configurable parser for a markdown dialect |
 | [nuance](https://github.com/metagn/nuance)* | runtime nim AST generation with line info for later compilation |
 | [lispnim](https://github.com/metagn/lispnim) | lisp syntax for nim using nuance | 
 | [sliceutils](https://github.com/metagn/sliceutils)* | slice/range abstractions |

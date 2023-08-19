@@ -12,9 +12,7 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 | [Nim](https://github.com/nim-lang/Nim/pulls?q=is%3Apr+author%3Ametagn+is%3Amerged) | personal contributions to the Nim programming language |
 | Nim libraries | see below |
 | [marggers](https://github.com/metagn/marggers) | markdown dialect |
-| [fup1](https://github.com/metagn/fup1) | tetris for web and desktop using practical metaprogramming |
 | [abyzou](https://github.com/metagn/abyzou) | (in development) scripting language with a focus on dispatch |
-| [kismet](https://github.com/metagn/kismet) | (old) first programming language |
 
 | Nim libraries | installable with [nimble](https://github.com/nim-lang/nimble) (`nimble install <url>`) | 
 | --: | :-- |
@@ -36,3 +34,8 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 | [nimedscript](https://github.com/metagn/NimEdScript) | (inactive) nim wrapper for EdisonScript in FL Studio |
 
 \* on the [nimble package registry](https://github.com/nim-lang/packages), can be installed with `nimble install <name>`
+
+| other |  |
+| --: | :-- |
+| [fup1](https://github.com/metagn/fup1) | tetris for web and desktop using practical metaprogramming |
+| [kismet](https://github.com/metagn/kismet) | (old) first programming language |

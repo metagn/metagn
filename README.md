@@ -13,7 +13,7 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 | Nim libraries | see below |
 | [marggers](https://github.com/metagn/marggers) | markdown dialect |
 | [fup1](https://github.com/metagn/fup1) | tetris for web and desktop using practical metaprogramming |
-| [bazy](https://github.com/metagn/bazy) | (in development) scripting language with a focus on dispatch |
+| [abyzou](https://github.com/metagn/abyzou) | (in development) scripting language with a focus on dispatch |
 | [kismet](https://github.com/metagn/kismet) | (old) first programming language |
 
 | Nim libraries | installable with [nimble](https://github.com/nim-lang/nimble) (`nimble install <url>`) | 

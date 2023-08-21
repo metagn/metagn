@@ -9,7 +9,7 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 
 | Projects | |
 | --: | :-- |
-| [margrave](https://github.com/metagn/margrave) | markdown dialect |
+| [margrave](https://github.com/metagn/margrave) | Markdown dialect |
 | [abyzou](https://github.com/metagn/abyzou) | (in development) scripting language with a focus on dispatch |
 | [Nim](https://github.com/nim-lang/Nim/pulls?q=is%3Apr+author%3Ametagn+is%3Amerged) | personal contributions to the Nim programming language |
 | Nim libraries | see below |
@@ -18,7 +18,7 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 | --: | :-- |
 | [assigns](https://github.com/metagn/assigns)* | overloadable pattern matching |
 | [applicates](https://github.com/metagn/applicates)* | first-class templates/symbols |
-| [grab](https://github.com/metagn/grab)* | inline package installs (like groovy @Grab) |
+| [grab](https://github.com/metagn/grab)* | inline package installs (like Groovy @Grab) |
 | [margrave](https://github.com/metagn/margrave)* | portable and configurable parser for a markdown dialect |
 | [nuance](https://github.com/metagn/nuance)* | runtime nim AST generation with line info for later compilation |
 | [lispnim](https://github.com/metagn/lispnim) | lisp syntax for nim using nuance | 

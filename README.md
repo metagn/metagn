@@ -10,8 +10,8 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 | Projects | |
 | --: | :-- |
 | [margrave](https://github.com/metagn/margrave) | Markdown dialect |
-| [abyzou](https://github.com/metagn/abyzou) | (in development) scripting language with a focus on dispatch |
 | [Nim](https://github.com/nim-lang/Nim/pulls?q=is%3Apr+author%3Ametagn+is%3Amerged) | personal contributions to the Nim programming language (currently also a maintainer) |
+| [abyzou](https://github.com/metagn/abyzou) | in development scripting language |
 | Nim libraries | see below |
 
 | Nim libraries | installable with [nimble](https://github.com/nim-lang/nimble) (`nimble install <url>`) | 

@@ -19,6 +19,7 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 | [assigns](https://github.com/metagn/assigns)* | overloadable pattern matching |
 | [applicates](https://github.com/metagn/applicates)* | first-class templates/symbols |
 | [grab](https://github.com/metagn/grab)* | inline package installs (like Groovy @Grab) |
+| [knot](https://github.com/metagn/knot)* | tie compile-time values to types under names |
 | [margrave](https://github.com/metagn/margrave)* | portable and configurable parser for a markdown dialect |
 | [nuance](https://github.com/metagn/nuance)* | runtime nim AST generation with line info for later compilation |
 | [lispnim](https://github.com/metagn/lispnim) | lisp syntax for nim using nuance | 

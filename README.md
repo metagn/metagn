@@ -7,12 +7,17 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 * [Buy Me a Coffee](https://www.buymeacoffee.com/metagn) - another way of donating alongside sponsoring
 * [Codewars](https://www.codewars.com/users/metagn) - ranked in many languages, highest ranked in order are Ruby, Julia, Python, Rust, Nim, Java, Groovy, C++, Crystal
 
+Projects I'm currently working on/intend to maintain:
+
 | Projects | |
 | --: | :-- |
-| [Nim](https://github.com/nim-lang/Nim/pulls?q=is%3Apr+author%3Ametagn+is%3Amerged) | personal contributions to the Nim programming language (currently also a maintainer) |
+| [Nim](https://github.com/nim-lang/Nim/pulls?q=is%3Apr+author%3Ametagn+is%3Amerged) | personal contributions to the Nim programming language |
 | [margrave](https://github.com/metagn/margrave) | Markdown dialect |
 | [abyzou](https://github.com/metagn/abyzou) | in development scripting language |
 | Nim libraries | see below |
+
+<details>
+<summary>Nim libraries</summary>
 
 | Nim libraries | installable with [nimble](https://github.com/nim-lang/nimble) (`nimble install <url>`) | 
 | --: | :-- |
@@ -36,7 +41,15 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 
 \* bold: on the [nimble package registry](https://github.com/nim-lang/packages), can be installed with `nimble install <name>`
 
+</details>
+
+Other past projects:
+
 | other |  |
 | --: | :-- |
-| [fup1](https://github.com/metagn/fup1) | tetris for web and desktop using practical metaprogramming |
-| [kismet](https://github.com/metagn/kismet) | (old) first programming language |
+| [fup1](https://github.com/metagn/fup1) | tetris for web and desktop using SDL2 in Nim |
+| [kismet](https://github.com/metagn/kismet) | first programming language, for embedding in the JVM |
+| [DiscordG](https://github.com/metagn-archives/DiscordG) | very old wrapper for the Discord bot API in Groovy | 
+| [lolhr](https://github.com/metagn-archives/lolhr) | (2018) Discord bot account client to learn JavaFX |
+| [technocracy](https://github.com/metagn-archives/technocracy) | (2018) starter demo for a game idea I had in Groovy/Swing |
+| [wobby](https://github.com/metagn-archives/wobby) | (2017-2018) 2D platformer engine and level editor in Groovy/Swing |

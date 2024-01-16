@@ -45,11 +45,11 @@ Projects I'm currently working on/intend to maintain:
 
 Other past projects (archived or sporadically maintained):
 
-| other |  |
-| --: | :-- |
-| [fup1](https://github.com/metagn/fup1) | (2021) tetris for web and desktop using SDL2 in Nim |
-| [technocracy](https://github.com/metagn-archives/technocracy) | (2018) starter demo for a game idea I had in Groovy/Swing |
-| [wobby](https://github.com/metagn-archives/wobby) | (2017-2018) 2D platformer engine and level editor in Groovy/Swing |
-| [DiscordG](https://github.com/metagn-archives/DiscordG) | (2016-) very old wrapper for the Discord bot API in Groovy | 
-| [lolhr](https://github.com/metagn-archives/lolhr) | (2018) Discord bot account client using DiscordG to learn JavaFX |
-| [kismet](https://github.com/metagn/kismet) | (2016-) first programming language, for embedding in the JVM |
+| other |  | date |
+| --: | :-- | :-- |
+| [kismet](https://github.com/metagn/kismet) | first programming language, for embedding in the JVM | 2016- |
+| [fup1](https://github.com/metagn/fup1) | tetris for web and desktop using SDL2 in Nim | 2021 |
+| [wobby](https://github.com/metagn-archives/wobby) | 2D platformer engine and level editor in Groovy/Swing | 2017-2018 |
+| [technocracy](https://github.com/metagn-archives/technocracy) | starter demo for a game idea I had in Groovy/Swing | 2018 |
+| [DiscordG](https://github.com/metagn-archives/DiscordG) | early wrapper for the Discord bot API in Groovy |  2016- |
+| [lolhr](https://github.com/metagn-archives/lolhr) | Discord bot account client to learn JavaFX | 2018 |

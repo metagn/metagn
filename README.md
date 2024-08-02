@@ -51,5 +51,5 @@ Other past projects (archived or sporadically maintained):
 | [fup1](https://github.com/metagn/fup1) | tetris for web and desktop using SDL2 in Nim | 2021 |
 | [wobby](https://github.com/metagn-archives/wobby) | 2D platformer engine and level editor in Groovy/Swing | 2017-2018 |
 | [technocracy](https://github.com/metagn-archives/technocracy) | starter demo for a game idea I had in Groovy/Swing | 2018 |
-| [DiscordG](https://github.com/metagn-archives/DiscordG) | early wrapper for the Discord bot API in Groovy |  2016- |
+| [DiscordG](https://github.com/metagn-archives/DiscordG) | early library for the Discord bot API in Groovy |  2016- |
 | [lolhr](https://github.com/metagn-archives/lolhr) | Discord bot account client to learn JavaFX | 2018 |

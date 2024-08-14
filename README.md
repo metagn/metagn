@@ -7,7 +7,7 @@ If you want to support my work please consider [sponsoring](https://github.com/s
 * [Buy Me a Coffee](https://www.buymeacoffee.com/metagn) - another way of donating alongside sponsoring
 * [Codewars](https://www.codewars.com/users/metagn) - ranked in many languages, highest ranked in order are Ruby, Julia, Python, Rust, Nim, Java, Groovy, C++, Crystal
 
-Projects I'm currently working on/intend to maintain:
+Active projects (currently working on or intend to maintain):
 
 | Projects | |
 | --: | :-- |

@@ -1,10 +1,10 @@
-If you want to support my work please consider [sponsoring](https://github.com/sponsors/metagn/) (no fees) or [donating via Buy Me a Coffee](https://www.buymeacoffee.com/metagn).
+If you want to support my work please consider [sponsoring](https://github.com/sponsors/metagn/) or [donating via Buy Me a Coffee](https://www.buymeacoffee.com/metagn).
 
 
 #### Links
 
 * [Sponsor](https://github.com/sponsors/metagn/)
-* [Buy Me a Coffee](https://www.buymeacoffee.com/metagn) - another way of donating alongside sponsoring
+* [Buy Me a Coffee](https://www.buymeacoffee.com/metagn)
 * [Codewars](https://www.codewars.com/users/metagn)
 
 Active projects (currently working on or intend to maintain):

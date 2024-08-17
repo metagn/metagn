@@ -1,11 +1,11 @@
-If you want to support my work please consider [sponsoring](https://github.com/sponsors/metagn/) (no fees) or [donating via Buy Me a Coffee](https://www.buymeacoffee.com/metagn). Being a student in Turkey, any amount means a lot.
+If you want to support my work please consider [sponsoring](https://github.com/sponsors/metagn/) (no fees) or [donating via Buy Me a Coffee](https://www.buymeacoffee.com/metagn).
 
 
 #### Links
 
 * [Sponsor](https://github.com/sponsors/metagn/)
 * [Buy Me a Coffee](https://www.buymeacoffee.com/metagn) - another way of donating alongside sponsoring
-* [Codewars](https://www.codewars.com/users/metagn) - ranked in many languages, highest ranked in order are Ruby, Julia, Python, Rust, Nim, Java, Groovy, C++, Crystal
+* [Codewars](https://www.codewars.com/users/metagn)
 
 Active projects (currently working on or intend to maintain):
 
@@ -45,11 +45,11 @@ Active projects (currently working on or intend to maintain):
 
 Other past projects (archived or sporadically maintained):
 
-| other |  | date |
-| --: | :-- | :-- |
-| [kismet](https://github.com/metagn/kismet) | first programming language, for embedding in the JVM | 2016- |
-| [fup1](https://github.com/metagn/fup1) | tetris for web and desktop using SDL2 in Nim | 2021 |
-| [wobby](https://github.com/metagn-archives/wobby) | 2D platformer engine and level editor in Groovy/Swing | 2017-2018 |
-| [technocracy](https://github.com/metagn-archives/technocracy) | starter demo for a game idea I had in Groovy/Swing | 2018 |
-| [DiscordG](https://github.com/metagn-archives/DiscordG) | early library for the Discord bot API in Groovy |  2016- |
-| [lolhr](https://github.com/metagn-archives/lolhr) | Discord bot account client to learn JavaFX | 2018 |
+| other | type |  | date |
+| --: | --: | :-- | :-- |
+| [kismet](https://github.com/metagn/kismet) | lang | first programming language, for embedding in the JVM | 2016- |
+| [fup1](https://github.com/metagn/fup1) | game | tetris for web and desktop using SDL2 in Nim | 2021 |
+| [wobby](https://github.com/metagn-archives/wobby) | game | 2D platformer engine and level editor in Groovy/Swing | 2017-2018 |
+| [technocracy](https://github.com/metagn-archives/technocracy) | game | starter demo for a game idea I had in Groovy/Swing | 2018 |
+| [DiscordG](https://github.com/metagn-archives/DiscordG) | lib | early library for the Discord bot API in Groovy |  2016- |
+| [lolhr](https://github.com/metagn-archives/lolhr) | app | Discord bot account client to learn JavaFX | 2018 |

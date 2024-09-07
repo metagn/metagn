@@ -21,19 +21,19 @@ Active projects (currently working on or intend to maintain):
 
 | Nim libraries | installable with [nimble](https://github.com/nim-lang/nimble) (`nimble install <url>`) | 
 | --: | :-- |
+| **[skinsuit](https://github.com/metagn/skinsuit)** | stackable utility macros for object variants |
 | **[applicates](https://github.com/metagn/applicates)** | first-class templates/symbols |
-| **[knot](https://github.com/metagn/knot)** | tie compile-time values to types under names |
-| **[margrave](https://github.com/metagn/margrave)** | portable and configurable parser for a markdown dialect |
-| **[nuance](https://github.com/metagn/nuance)** | runtime nim AST generation with line info for later compilation |
-| [lispnim](https://github.com/metagn/lispnim) | lisp syntax for nim using nuance |
-| **[grab](https://github.com/metagn/grab)** | inline package installs (like Groovy @Grab) |
 | **[assigns](https://github.com/metagn/assigns)** | overloadable pattern matching |
 | **[sliceutils](https://github.com/metagn/sliceutils)** | slice/range abstractions |
-| **[skinsuit](https://github.com/metagn/skinsuit)** | stackable utility macros for object variants |
+| **[grab](https://github.com/metagn/grab)** | inline package installs (like Groovy @Grab) |
+| **[nuance](https://github.com/metagn/nuance)** | runtime nim AST generation with line info for later compilation |
+| [lispnim](https://github.com/metagn/lispnim) | lisp syntax for nim using nuance |
+| **[knot](https://github.com/metagn/knot)** | tie compile-time values to types under names |
 | **[spread](https://github.com/metagn/spread)** | block syntax for calls/literals/constructors |
 | **[dirtydeeds](https://github.com/metagn/dirtydeeds)** | sugar for partially applied calls |
 | **[shorteststring](https://github.com/metagn/shorteststring)** | word-size string |
 | **[etf](https://github.com/metagn/etf)** | erlang term format |
+| **[margrave](https://github.com/metagn/margrave)** | portable and configurable parser for a markdown dialect |
 | [niv/websocket.nim](https://github.com/niv/websocket.nim) | (co-maintainer) |
 | [funnycapitalism](https://github.com/metagn/funnycapitalism) | (inactive) barebones Discord library |
 | [nashorn](https://github.com/metagn/nimnashorn) | (inactive) nim wrapper for Nashorn JS runtime on the JVM |

@@ -21,9 +21,9 @@ Active projects (currently working on or intend to maintain):
 
 | Nim libraries | installable with [nimble](https://github.com/nim-lang/nimble) (`nimble install <url>`) | 
 | --: | :-- |
-| **[skinsuit](https://github.com/metagn/skinsuit)** | stackable utility macros for object variants |
 | **[applicates](https://github.com/metagn/applicates)** | first-class templates/symbols |
 | **[assigns](https://github.com/metagn/assigns)** | overloadable pattern matching |
+| **[skinsuit](https://github.com/metagn/skinsuit)** | stackable utility macros for object variants |
 | **[sliceutils](https://github.com/metagn/sliceutils)** | slice/range abstractions |
 | **[grab](https://github.com/metagn/grab)** | inline package installs (like Groovy @Grab) |
 | **[nuance](https://github.com/metagn/nuance)** | runtime nim AST generation with line info for later compilation |

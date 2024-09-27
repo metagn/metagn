@@ -23,17 +23,18 @@ Active projects (currently working on or intend to maintain):
 | --: | :-- |
 | **[applicates](https://github.com/metagn/applicates)** | first-class templates/symbols |
 | **[assigns](https://github.com/metagn/assigns)** | overloadable pattern matching |
-| **[skinsuit](https://github.com/metagn/skinsuit)** | stackable utility macros for object variants |
-| **[sliceutils](https://github.com/metagn/sliceutils)** | slice/range abstractions |
+| **[dirtydeeds](https://github.com/metagn/dirtydeeds)** | sugar for partially applied calls |
+| **[etf](https://github.com/metagn/etf)** | erlang term format |
 | **[grab](https://github.com/metagn/grab)** | inline package installs (like Groovy @Grab) |
+| **[knot](https://github.com/metagn/knot)** | tie compile-time values to types under names |
+| **[manta](https://github.com/metagn/manta)** | runtime array types with destructors |
+| **[margrave](https://github.com/metagn/margrave)** | portable and configurable parser for a markdown dialect |
 | **[nuance](https://github.com/metagn/nuance)** | runtime nim AST generation with line info for later compilation |
 | [lispnim](https://github.com/metagn/lispnim) | lisp syntax for nim using nuance |
-| **[knot](https://github.com/metagn/knot)** | tie compile-time values to types under names |
-| **[spread](https://github.com/metagn/spread)** | block syntax for calls/literals/constructors |
-| **[dirtydeeds](https://github.com/metagn/dirtydeeds)** | sugar for partially applied calls |
 | **[shorteststring](https://github.com/metagn/shorteststring)** | word-size string |
-| **[etf](https://github.com/metagn/etf)** | erlang term format |
-| **[margrave](https://github.com/metagn/margrave)** | portable and configurable parser for a markdown dialect |
+| **[skinsuit](https://github.com/metagn/skinsuit)** | stackable utility macros for object variants |
+| **[sliceutils](https://github.com/metagn/sliceutils)** | slice/range abstractions |
+| **[spread](https://github.com/metagn/spread)** | block syntax for calls/literals/constructors |
 | [niv/websocket.nim](https://github.com/niv/websocket.nim) | (co-maintainer) |
 | [funnycapitalism](https://github.com/metagn/funnycapitalism) | (inactive) barebones Discord library |
 | [nashorn](https://github.com/metagn/nimnashorn) | (inactive) nim wrapper for Nashorn JS runtime on the JVM |

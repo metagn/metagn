@@ -36,7 +36,6 @@ Active projects (currently working on or intend to maintain):
 | math | [cardia](https://github.com/metagn/cardia) | discrete math primitives |
 | parser | [margrave](https://github.com/metagn/margrave) | portable and configurable parser for a dialect of markdown |
 | parser | [rot](https://github.com/metagn/rot) | text data format |
-| web | [blog](https://github.com/metagn/blog) | site builder for blog using margrave |
 | macro | [nuance](https://github.com/metagn/nuance) | runtime support for untyped nim AST |
 | sugar | [grab](https://github.com/metagn/grab) | inline package installs (like Groovy @Grab) |
 | sugar | [spread](https://github.com/metagn/spread) | block syntax for calls/literals/constructors |

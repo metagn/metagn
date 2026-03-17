@@ -1,12 +1,5 @@
 If you want to support my work please consider [sponsoring](https://github.com/sponsors/metagn/) or [donating via Buy Me a Coffee](https://www.buymeacoffee.com/metagn).
 
-
-#### Links
-
-* [Sponsor](https://github.com/sponsors/metagn/)
-* [Buy Me a Coffee](https://www.buymeacoffee.com/metagn)
-* [Codewars](https://www.codewars.com/users/metagn)
-
 Active projects (currently working on or intend to maintain):
 
 | Projects | |
@@ -59,7 +52,26 @@ Historical projects (archived or sporadically maintained):
 | project |  | date |
 | --: | :-- | :-- |
 | [blog](https://github.com/metagn/blog) | site builder for blog using margrave | 2022- |
-| [kismet](https://github.com/metagn/kismet) | first programming language, for embedding in the JVM | 2016- |
 | [fup1](https://github.com/metagn/fup1) | tetris for web and desktop using SDL2 in Nim | 2021 |
-| [technocracy](https://github.com/metagn-archives/technocracy) | starter demo for a game idea I had in Groovy/Swing | 2018 |
+| [kismet](https://github.com/metagn/kismet) | first programming language, for embedding in the JVM | 2016- |
+
+<details>
+<summary>very old</summary>
+
+| project |  | date |
+| --: | :-- | :-- |
+| [lolhr](https://github.com/metagn-archives/lolhr) | Discord bot account client UI to learn JavaFX | 2018 |
+| [technocracy](https://github.com/metagn-archives/technocracy) | visual demo for a game idea in Groovy/Swing | 2018 |
 | [wobby](https://github.com/metagn-archives/wobby) | 2D platformer engine and level editor in Groovy/Swing | 2017-2018 |
+| [DiscordGroovy](https://github.com/metagn-archives/DiscordGroovy) | early library for the Discord bot API in Groovy | 2016-2018 |
+
+</details>
+
+---
+
+#### Links
+
+* [Sponsor](https://github.com/sponsors/metagn/)
+* [Buy Me a Coffee](https://www.buymeacoffee.com/metagn)
+* [Codewars](https://www.codewars.com/users/metagn)
+

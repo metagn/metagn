@@ -5,8 +5,9 @@ Active projects (currently working on or intend to maintain):
 | Projects | |
 | --: | :-- |
 | [Nim](https://github.com/nim-lang/Nim/pulls?q=is%3Apr+author%3Ametagn+is%3Amerged) | personal contributions to the Nim programming language - previously full time |
-| [margrave](https://github.com/metagn/margrave) | Markdown dialect |
 | [abyzou](https://github.com/metagn/abyzou) | in development scripting language |
+| [margrave](https://github.com/metagn/margrave) | Markdown dialect |
+| [rot](https://github.com/metagn/rot) | text data format |
 | libraries under [holo-nim](https://github.com/holo-nim/) | general purpose library suite |
 | - | more projects under development |
 | personal Nim libraries | activity varies, see below |
@@ -73,5 +74,5 @@ Historical projects (archived or sporadically maintained):
 
 * [Sponsor](https://github.com/sponsors/metagn/)
 * [Buy Me a Coffee](https://www.buymeacoffee.com/metagn)
-* [Codewars](https://www.codewars.com/users/metagn)
+* [Codewars](https://www.codewars.com/users/metagn) - proof I can use other languages lol
 

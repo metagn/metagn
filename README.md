@@ -23,9 +23,9 @@ Active projects (currently working on or intend to maintain):
 | language | [knot](https://github.com/metagn/knot) | tie compile-time values to types under names |
 | datatype | [manta](https://github.com/metagn/manta) | runtime array types with destructors |
 | datatype | [hemodyne](https://github.com/metagn/hemodyne) | stream-like dynamic buffers |
+| datatype | [sliceutils](https://github.com/metagn/sliceutils) | slice/range abstractions |
 | datatype | [flop](https://github.com/metagn/flop) | overloadable tagless invalid-state-based option types |
 | datatype | [froth](https://github.com/metagn/froth) | tagged pointer types with destructors |
-| datatype | [sliceutils](https://github.com/metagn/sliceutils) | slice/range abstractions |
 | datatype | [shorteststring](https://github.com/metagn/shorteststring) | word-size string |
 | math | [cardia](https://github.com/metagn/cardia) | discrete math primitives |
 | parser | [margrave](https://github.com/metagn/margrave) | portable and configurable parser for a dialect of markdown |

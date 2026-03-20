@@ -30,11 +30,11 @@ Active projects (currently working on or intend to maintain):
 | math | [cardia](https://github.com/metagn/cardia) | discrete math primitives |
 | parser | [margrave](https://github.com/metagn/margrave) | portable and configurable parser for a dialect of markdown |
 | parser | [rot](https://github.com/metagn/rot) | text data format |
-| macro | [nuance](https://github.com/metagn/nuance) | runtime support for untyped nim AST |
 | sugar | [grab](https://github.com/metagn/grab) | inline package installs (like Groovy @Grab) |
 | sugar | [spread](https://github.com/metagn/spread) | block syntax for calls/literals/constructors |
 | sugar | [dirtydeeds](https://github.com/metagn/dirtydeeds) | sugar for partially applied calls |
 | sugar | [lispnim](https://github.com/metagn/lispnim) | lisp syntax for nim using nuance |
+| macro | [nuance](https://github.com/metagn/nuance) | runtime support for untyped nim AST |
 | network | [niv/websocket.nim](https://github.com/niv/websocket.nim) | (co-maintainer) |
 | network | [funnycapitalism](https://github.com/metagn/funnycapitalism) | barebones Discord library |
 | network | [etf](https://github.com/metagn/etf) | erlang term format |

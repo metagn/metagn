@@ -32,14 +32,10 @@ Personal:
 | language | [skinsuit](https://github.com/metagn/skinsuit) | stackable utility macros for object variants |
 | language | [knot](https://github.com/metagn/knot) | tie compile-time values to types under names |
 | data | [manta](https://github.com/metagn/manta) | runtime array types with destructors |
-| data | [hemodyne](https://github.com/metagn/hemodyne) | stream-like dynamic buffers |
 | data | [sliceutils](https://github.com/metagn/sliceutils) | slice/range abstractions |
 | data | [flop](https://github.com/metagn/flop) | overloadable tagless invalid-state-based option types |
 | data | [froth](https://github.com/metagn/froth) | tagged pointer types with destructors |
 | data | [shorteststring](https://github.com/metagn/shorteststring) | word-size string |
-| math | [cardia](https://github.com/metagn/cardia) | discrete math primitives |
-| parser | [margrave](https://github.com/metagn/margrave) | portable and configurable parser for a dialect of markdown |
-| parser | [rot](https://github.com/metagn/rot) | text data format |
 | sugar | [grab](https://github.com/metagn/grab) | inline package installs (like Groovy @Grab) |
 | sugar | [spread](https://github.com/metagn/spread) | block syntax for calls/literals/constructors |
 | sugar | [dirtydeeds](https://github.com/metagn/dirtydeeds) | sugar for partially applied calls |

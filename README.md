@@ -24,6 +24,7 @@ Under holo-nim:
 | data | [holo-json](https://github.com/holo-nim/holo-json) | fork of jsony for better use in applications |
 | data | [holo-map](https://github.com/holo-nim/holo-map) | serialization/mapping primitives |
 | data | [holo-flow](https://github.com/holo-nim/holo-flow) | buffered stream library |
+| data | [manta](https://github.com/metagn/manta) | runtime array types with destructors |
 
 Personal:
 
@@ -31,7 +32,6 @@ Personal:
 | --: | :-- | :-- |
 | language | [applicates](https://github.com/metagn/applicates) | first-class templates/symbols |
 | language | [knot](https://github.com/metagn/knot) | tie compile-time values to types under names |
-| data | [manta](https://github.com/metagn/manta) | runtime array types with destructors |
 | data | [sliceutils](https://github.com/metagn/sliceutils) | slice/range abstractions |
 | data | [flop](https://github.com/metagn/flop) | overloadable tagless invalid-state-based option types |
 | data | [froth](https://github.com/metagn/froth) | tagged pointer types with destructors |

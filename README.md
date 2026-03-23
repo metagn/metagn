@@ -15,18 +15,28 @@ Active projects (currently working on or intend to maintain):
 <details>
 <summary>Nim libraries</summary>
 
+Under holo-nim:
+
+| category | library | description |
+| --: | :-- | :-- |
+| language | [holo-match](https://github.com/holo-nim/holo-match) | nested/overloadable pattern matching |
+| data | [holo-json](https://github.com/holo-nim/holo-json) | fork of jsony for better use in applications |
+| data | [holo-map](https://github.com/holo-nim/holo-map) | serialization/mapping primitives |
+| data | [holo-flow](https://github.com/holo-nim/holo-flow) | buffered stream library |
+
+Personal:
+
 | category | library | description | 
 | --: | :-- | :-- |
 | language | [applicates](https://github.com/metagn/applicates) | first-class templates/symbols |
-| language | [assigns](https://github.com/metagn/assigns) | overloadable pattern matching |
 | language | [skinsuit](https://github.com/metagn/skinsuit) | stackable utility macros for object variants |
 | language | [knot](https://github.com/metagn/knot) | tie compile-time values to types under names |
-| datatype | [manta](https://github.com/metagn/manta) | runtime array types with destructors |
-| datatype | [hemodyne](https://github.com/metagn/hemodyne) | stream-like dynamic buffers |
-| datatype | [sliceutils](https://github.com/metagn/sliceutils) | slice/range abstractions |
-| datatype | [flop](https://github.com/metagn/flop) | overloadable tagless invalid-state-based option types |
-| datatype | [froth](https://github.com/metagn/froth) | tagged pointer types with destructors |
-| datatype | [shorteststring](https://github.com/metagn/shorteststring) | word-size string |
+| data | [manta](https://github.com/metagn/manta) | runtime array types with destructors |
+| data | [hemodyne](https://github.com/metagn/hemodyne) | stream-like dynamic buffers |
+| data | [sliceutils](https://github.com/metagn/sliceutils) | slice/range abstractions |
+| data | [flop](https://github.com/metagn/flop) | overloadable tagless invalid-state-based option types |
+| data | [froth](https://github.com/metagn/froth) | tagged pointer types with destructors |
+| data | [shorteststring](https://github.com/metagn/shorteststring) | word-size string |
 | math | [cardia](https://github.com/metagn/cardia) | discrete math primitives |
 | parser | [margrave](https://github.com/metagn/margrave) | portable and configurable parser for a dialect of markdown |
 | parser | [rot](https://github.com/metagn/rot) | text data format |
@@ -55,6 +65,7 @@ Historical projects (archived or sporadically maintained):
 | [blog](https://github.com/metagn/blog) | site builder for blog using margrave | 2022- |
 | [fup1](https://github.com/metagn/fup1) | tetris for web and desktop using SDL2 in Nim | 2021 |
 | [kismet](https://github.com/metagn/kismet) | first programming language, for embedding in the JVM | 2016- |
+| [cardia](https://github.com/metagn/cardia) | discrete math/number theory primitives | 2024- |
 
 <details>
 <summary>very old</summary>

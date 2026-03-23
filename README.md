@@ -20,6 +20,7 @@ Under holo-nim:
 | category | library | description |
 | --: | :-- | :-- |
 | language | [holo-match](https://github.com/holo-nim/holo-match) | nested/overloadable pattern matching |
+| language | [skinsuit](https://github.com/metagn/skinsuit) | stackable utility macros for object variants |
 | data | [holo-json](https://github.com/holo-nim/holo-json) | fork of jsony for better use in applications |
 | data | [holo-map](https://github.com/holo-nim/holo-map) | serialization/mapping primitives |
 | data | [holo-flow](https://github.com/holo-nim/holo-flow) | buffered stream library |
@@ -29,7 +30,6 @@ Personal:
 | category | library | description | 
 | --: | :-- | :-- |
 | language | [applicates](https://github.com/metagn/applicates) | first-class templates/symbols |
-| language | [skinsuit](https://github.com/metagn/skinsuit) | stackable utility macros for object variants |
 | language | [knot](https://github.com/metagn/knot) | tie compile-time values to types under names |
 | data | [manta](https://github.com/metagn/manta) | runtime array types with destructors |
 | data | [sliceutils](https://github.com/metagn/sliceutils) | slice/range abstractions |

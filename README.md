@@ -25,6 +25,7 @@ Under holo-nim:
 | data | [holo-map](https://github.com/holo-nim/holo-map) | serialization/mapping primitives |
 | data | [holo-flow](https://github.com/holo-nim/holo-flow) | buffered stream library |
 | data | [manta](https://github.com/metagn/manta) | runtime array types with destructors |
+| data | [grime](https://github.com/holo-nim/grime) | binary serialization |
 
 Personal:
 

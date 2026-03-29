@@ -4,7 +4,7 @@ Active projects (currently working on or intend to maintain):
 
 | Projects | |
 | --: | :-- |
-| libraries under [holo-nim](https://github.com/holo-nim/) | general purpose library suite for my uses |
+| libraries under [holo-nim](https://github.com/holo-nim/) | general purpose library suite |
 | [Nim](https://github.com/nim-lang/Nim/pulls?q=is%3Apr+author%3Ametagn+is%3Amerged) | personal contributions to the Nim programming language - previously full time |
 | [abyzou](https://github.com/metagn/abyzou) | in development scripting language |
 | [margrave](https://github.com/metagn/margrave) | Markdown dialect |

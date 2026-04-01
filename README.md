@@ -19,13 +19,14 @@ Under holo-nim:
 
 | category | library | description |
 | --: | :-- | :-- |
-| language | [holo-match](https://github.com/holo-nim/holo-match) | nested/overloadable pattern matching |
-| language | [skinsuit](https://github.com/metagn/skinsuit) | stackable utility macros for object variants |
 | data | [holo-json](https://github.com/holo-nim/holo-json) | fork of jsony for better use in applications |
-| data | [holo-map](https://github.com/holo-nim/holo-map) | serialization/mapping primitives |
+| data | [cosm](https://github.com/holo-nim/cosm) | serialization/mapping primitives |
 | data | [holo-flow](https://github.com/holo-nim/holo-flow) | buffered stream library |
-| data | [manta](https://github.com/metagn/manta) | runtime array types with destructors |
+| data | [manta](https://github.com/holo-nim/manta) | runtime array types with destructors |
 | data | [grime](https://github.com/holo-nim/grime) | binary serialization |
+| macro | [glaze](https://github.com/glaze) | typed NimNode serialization/deserialization |
+| language | [holo-match](https://github.com/holo-nim/holo-match) | nested/overloadable pattern matching |
+| language | [skinsuit](https://github.com/holo-nim/skinsuit) | stackable utility macros for object variants |
 
 Personal:
 

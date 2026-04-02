@@ -15,7 +15,7 @@ Active projects (currently working on or intend to maintain):
 <details>
 <summary>Nim libraries</summary>
 
-Under holo-nim:
+Under [holo-nim](https://github.com/holo-nim/):
 
 | category | library | description |
 | --: | :-- | :-- |
@@ -27,6 +27,7 @@ Under holo-nim:
 | macro | [glaze](https://github.com/glaze) | typed NimNode serialization/deserialization |
 | language | [holo-match](https://github.com/holo-nim/holo-match) | nested/overloadable pattern matching |
 | language | [skinsuit](https://github.com/holo-nim/skinsuit) | stackable utility macros for object variants |
+| sugar | [spread](https://github.com/metagn/spread) | block syntax for calls/literals/constructors |
 
 Personal:
 
@@ -39,7 +40,6 @@ Personal:
 | data | [froth](https://github.com/metagn/froth) | tagged pointer types with destructors |
 | data | [shorteststring](https://github.com/metagn/shorteststring) | word-size string |
 | sugar | [grab](https://github.com/metagn/grab) | inline package installs (like Groovy @Grab) |
-| sugar | [spread](https://github.com/metagn/spread) | block syntax for calls/literals/constructors |
 | sugar | [dirtydeeds](https://github.com/metagn/dirtydeeds) | sugar for partially applied calls |
 | sugar | [lispnim](https://github.com/metagn/lispnim) | lisp syntax for nim using nuance |
 | macro | [nuance](https://github.com/metagn/nuance) | runtime support for untyped nim AST |

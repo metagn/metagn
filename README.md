@@ -4,13 +4,13 @@ Active projects (currently working on or intend to maintain):
 
 | Projects | |
 | --: | :-- |
-| libraries under [holo-nim](https://github.com/holo-nim/) | general purpose library suite |
 | [Nim](https://github.com/nim-lang/Nim/pulls?q=is%3Apr+author%3Ametagn+is%3Amerged) | personal contributions to the Nim programming language - previously full time |
+| [holo-nim](https://github.com/holo-nim/) | general purpose library suite |
 | [abyzou](https://github.com/metagn/abyzou) | in development scripting language |
 | [margrave](https://github.com/metagn/margrave) | Markdown dialect |
 | [rot](https://github.com/metagn/rot) | text data format |
+| misc Nim libraries | activity varies, see below |
 | - | more projects under development |
-| personal Nim libraries | activity varies, see below |
 
 <details>
 <summary>Nim libraries</summary>
@@ -29,7 +29,7 @@ Under [holo-nim](https://github.com/holo-nim/):
 | language | [skinsuit](https://github.com/holo-nim/skinsuit) | stackable utility macros for object variants |
 | sugar | [spread](https://github.com/metagn/spread) | block syntax for calls/literals/constructors |
 
-Personal:
+Misc:
 
 | category | library | description | 
 | --: | :-- | :-- |

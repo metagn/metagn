@@ -7,9 +7,8 @@ Active projects (currently working on or intend to maintain):
 | [Nim](https://github.com/nim-lang/Nim/pulls?q=is%3Apr+author%3Ametagn+is%3Amerged) | personal contributions to the Nim programming language - previously full time |
 | [holo-nim](https://github.com/holo-nim/) | general purpose library suite |
 | [abyzou](https://github.com/metagn/abyzou) | in development scripting language |
-| [margrave](https://github.com/metagn/margrave) | Markdown dialect |
 | [rot](https://github.com/metagn/rot) | text data format |
-| misc Nim libraries | activity varies, see below |
+| misc Nim libraries | see below |
 | - | more projects under development |
 
 <details>
@@ -27,7 +26,6 @@ Under [holo-nim](https://github.com/holo-nim/):
 | macro | [glaze](https://github.com/glaze) | typed NimNode serialization/deserialization |
 | language | [holo-match](https://github.com/holo-nim/holo-match) | nested/overloadable pattern matching |
 | language | [skinsuit](https://github.com/holo-nim/skinsuit) | stackable utility macros for object variants |
-| sugar | [spread](https://github.com/metagn/spread) | block syntax for calls/literals/constructors |
 
 Misc:
 
@@ -35,20 +33,8 @@ Misc:
 | --: | :-- | :-- |
 | language | [applicates](https://github.com/metagn/applicates) | first-class templates/symbols |
 | language | [knot](https://github.com/metagn/knot) | tie compile-time values to types under names |
-| data | [sliceutils](https://github.com/metagn/sliceutils) | slice/range abstractions |
 | data | [flop](https://github.com/metagn/flop) | overloadable tagless invalid-state-based option types |
 | data | [froth](https://github.com/metagn/froth) | tagged pointer types with destructors |
-| data | [shorteststring](https://github.com/metagn/shorteststring) | word-size string |
-| sugar | [grab](https://github.com/metagn/grab) | inline package installs (like Groovy @Grab) |
-| sugar | [dirtydeeds](https://github.com/metagn/dirtydeeds) | sugar for partially applied calls |
-| sugar | [lispnim](https://github.com/metagn/lispnim) | lisp syntax for nim using nuance |
-| macro | [nuance](https://github.com/metagn/nuance) | runtime support for untyped nim AST |
-| network | [niv/websocket.nim](https://github.com/niv/websocket.nim) | (co-maintainer) |
-| network | [funnycapitalism](https://github.com/metagn/funnycapitalism) | barebones Discord library |
-| network | [etf](https://github.com/metagn/etf) | erlang term format |
-| language | [schemes](https://github.com/metagn-archives/schemes) | (historical) syntax for state machines |
-| wrapper | [nashorn](https://github.com/metagn-archives/nimnashorn) | (historical) nim wrapper for Nashorn JS runtime |
-| wrapper | [nimedscript](https://github.com/metagn-archives/NimEdScript) | (historical) nim wrapper for EdisonScript in FL Studio |
 
 _installable with [nimble](https://github.com/nim-lang/nimble): `nimble install <url>`_
 
@@ -60,13 +46,36 @@ Historical projects (archived or sporadically maintained):
 
 | project |  | date |
 | --: | :-- | :-- |
+| [margrave](https://github.com/metagn/margrave) | Markdown dialect | 2020- |
 | [blog](https://github.com/metagn/blog) | site builder for blog using margrave | 2022- |
 | [fup1](https://github.com/metagn/fup1) | tetris for web and desktop using SDL2 in Nim | 2021 |
 | [kismet](https://github.com/metagn/kismet) | first programming language, for embedding in the JVM | 2016- |
 | [cardia](https://github.com/metagn/cardia) | discrete math/number theory primitives | 2024- |
+| misc | see below | - |
 
 <details>
-<summary>very old</summary>
+<summary>inactive Nim libraries</summary>
+  
+| category | library | description | 
+| --: | :-- | :-- |
+| data | [shorteststring](https://github.com/metagn/shorteststring) | word-size string |
+| data | [sliceutils](https://github.com/metagn/sliceutils) | slice/range abstractions |
+| sugar | [grab](https://github.com/metagn/grab) | inline package installs (like Groovy @Grab) |
+| sugar | [spread](https://github.com/holo-nim/spread) | block syntax for calls/literals/constructors |
+| sugar | [dirtydeeds](https://github.com/metagn/dirtydeeds) | sugar for partially applied calls |
+| sugar | [lispnim](https://github.com/metagn/lispnim) | lisp syntax for nim using nuance |
+| macro | [nuance](https://github.com/metagn/nuance) | runtime support for untyped nim AST |
+| network | [niv/websocket.nim](https://github.com/niv/websocket.nim) | (co-maintainer) |
+| network | [funnycapitalism](https://github.com/metagn/funnycapitalism) | barebones Discord library |
+| network | [etf](https://github.com/metagn/etf) | erlang term format |
+| language | [schemes](https://github.com/metagn-archives/schemes) | (historical) syntax for state machines |
+| wrapper | [nashorn](https://github.com/metagn-archives/nimnashorn) | (historical) nim wrapper for Nashorn JS runtime |
+| wrapper | [nimedscript](https://github.com/metagn-archives/NimEdScript) | (historical) nim wrapper for EdisonScript in FL Studio |
+
+</details>
+
+<details>
+<summary>JVM projects</summary>
 
 | project |  | date |
 | --: | :-- | :-- |

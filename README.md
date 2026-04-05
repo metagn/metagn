@@ -42,7 +42,7 @@ _installable with [nimble](https://github.com/nim-lang/nimble): `nimble install 
 
 ---
 
-Historical projects (archived or sporadically maintained):
+Historical projects (sporadically maintained or archived):
 
 | project |  | date |
 | --: | :-- | :-- |

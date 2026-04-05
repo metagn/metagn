@@ -21,7 +21,7 @@ Under [holo-nim](https://github.com/holo-nim/):
 | --: | :-- | :-- |
 | data | [holo-json](https://github.com/holo-nim/holo-json) | fork of jsony for better use in applications |
 | data | [cosm](https://github.com/holo-nim/cosm) | serialization/mapping primitives |
-| data | [flue](https://github.com/holo-nim/flue) | data stream library |
+| data | [fleu](https://github.com/holo-nim/fleu) | data stream library |
 | data | [manta](https://github.com/holo-nim/manta) | runtime array types with destructors |
 | data | [grime](https://github.com/holo-nim/grime) | binary serialization |
 | macro | [glaze](https://github.com/glaze) | typed NimNode serialization/deserialization |

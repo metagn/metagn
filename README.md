@@ -24,6 +24,7 @@ Under [holo-nim](https://github.com/holo-nim/):
 | data | [manta](https://github.com/holo-nim/manta) | runtime array types with destructors |
 | data | [grime](https://github.com/holo-nim/grime) | binary serialization |
 | macro | [glaze](https://github.com/glaze) | typed NimNode serialization/deserialization |
+| language | [keten](https://github.com/holo-nim/keten) | relational compile time accumulator |
 | language | [holo-match](https://github.com/holo-nim/holo-match) | nested/overloadable pattern matching |
 | language | [skinsuit](https://github.com/holo-nim/skinsuit) | stackable utility macros for object variants |
 

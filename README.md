@@ -32,8 +32,6 @@ Misc:
 
 | category | library | description | 
 | --: | :-- | :-- |
-| language | [applicates](https://github.com/metagn/applicates) | first-class templates/symbols |
-| language | [knot](https://github.com/metagn/knot) | tie compile-time values to types under names |
 | data | [flop](https://github.com/metagn/flop) | overloadable tagless invalid-state-based option types |
 | data | [froth](https://github.com/metagn/froth) | tagged pointer types with destructors |
 
@@ -59,6 +57,8 @@ Historical projects (sporadically maintained or archived):
   
 | category | library | description | 
 | --: | :-- | :-- |
+| language | [applicates](https://github.com/metagn/applicates) | first-class templates/symbols |
+| language | [knot](https://github.com/metagn/knot) | tie compile-time values to types under names |
 | data | [shorteststring](https://github.com/metagn/shorteststring) | word-size string |
 | data | [sliceutils](https://github.com/metagn/sliceutils) | slice/range abstractions |
 | sugar | [grab](https://github.com/metagn/grab) | inline package installs (like Groovy @Grab) |

@@ -23,10 +23,11 @@ Under [holo-nim](https://github.com/holo-nim/):
 | data | [fleu](https://github.com/holo-nim/fleu) | data stream library |
 | data | [manta](https://github.com/holo-nim/manta) | runtime array types with destructors |
 | data | [grime](https://github.com/holo-nim/grime) | binary serialization |
-| macro | [glaze](https://github.com/glaze) | typed NimNode serialization/deserialization |
 | language | [ketin](https://github.com/holo-nim/ketin) | relational compile time accumulator |
 | language | [holo-match](https://github.com/holo-nim/holo-match) | nested/overloadable pattern matching |
 | language | [skinsuit](https://github.com/holo-nim/skinsuit) | stackable utility macros for object variants |
+| macro | [glaze](https://github.com/glaze) | typed NimNode serialization/deserialization |
+| macro | [nuance](https://github.com/holo-nim/nuance) | runtime support for untyped nim AST |
 
 Misc:
 
@@ -34,6 +35,7 @@ Misc:
 | --: | :-- | :-- |
 | data | [flop](https://github.com/metagn/flop) | overloadable tagless invalid-state-based option types |
 | data | [froth](https://github.com/metagn/froth) | tagged pointer types with destructors |
+| language | [applicates](https://github.com/metagn/applicates) | first-class templates/symbols |
 
 _installable with [nimble](https://github.com/nim-lang/nimble): `nimble install <url>`_
 
@@ -57,15 +59,13 @@ Historical projects (sporadically maintained or archived):
   
 | category | library | description | 
 | --: | :-- | :-- |
-| language | [applicates](https://github.com/metagn/applicates) | first-class templates/symbols |
-| language | [knot](https://github.com/metagn/knot) | tie compile-time values to types under names |
 | data | [shorteststring](https://github.com/metagn/shorteststring) | word-size string |
 | data | [sliceutils](https://github.com/metagn/sliceutils) | slice/range abstractions |
+| language | [knot](https://github.com/metagn/knot) | tie compile-time values to types under names |
 | sugar | [grab](https://github.com/metagn/grab) | inline package installs (like Groovy @Grab) |
 | sugar | [spread](https://github.com/holo-nim/spread) | block syntax for calls/literals/constructors |
 | sugar | [dirtydeeds](https://github.com/metagn/dirtydeeds) | sugar for partially applied calls |
 | sugar | [lispnim](https://github.com/metagn/lispnim) | lisp syntax for nim using nuance |
-| macro | [nuance](https://github.com/metagn/nuance) | runtime support for untyped nim AST |
 | network | [niv/websocket.nim](https://github.com/niv/websocket.nim) | (co-maintainer) |
 | network | [funnycapitalism](https://github.com/metagn/funnycapitalism) | barebones Discord library |
 | network | [etf](https://github.com/metagn/etf) | erlang term format |

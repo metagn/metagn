@@ -21,8 +21,8 @@ Under [holo-nim](https://github.com/holo-nim/):
 | data | [holo-json](https://github.com/holo-nim/holo-json) | fork of jsony for better use in applications |
 | data | [cosm](https://github.com/holo-nim/cosm) | serialization/mapping primitives |
 | data | [fleu](https://github.com/holo-nim/fleu) | data stream library |
-| data | [manta](https://github.com/holo-nim/manta) | runtime array types with destructors |
 | data | [grime](https://github.com/holo-nim/grime) | binary serialization |
+| data | [manta](https://github.com/holo-nim/manta) | runtime array types with destructors |
 | language | [ketin](https://github.com/holo-nim/ketin) | relational compile time accumulator |
 | language | [holo-match](https://github.com/holo-nim/holo-match) | nested/overloadable pattern matching |
 | language | [skinsuit](https://github.com/holo-nim/skinsuit) | stackable utility macros for object variants |

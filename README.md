@@ -18,7 +18,7 @@ Under [holo-nim](https://github.com/holo-nim/):
 
 | category | library | description |
 | --: | :-- | :-- |
-| data | [holo-json](https://github.com/holo-nim/holo-json) | json for applications based on jsony |
+| data | [holo-json](https://github.com/holo-nim/holo-json) | json for applications, fork of jsony |
 | data | [cosm](https://github.com/holo-nim/cosm) | serialization/mapping primitives |
 | data | [fleu](https://github.com/holo-nim/fleu) | data stream library |
 | data | [grime](https://github.com/holo-nim/grime) | binary serialization |

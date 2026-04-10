@@ -23,6 +23,7 @@ Under [holo-nim](https://github.com/holo-nim/):
 | data | [fleu](https://github.com/holo-nim/fleu) | data stream library |
 | data | [grime](https://github.com/holo-nim/grime) | binary serialization |
 | data | [manta](https://github.com/holo-nim/manta) | runtime array types with destructors |
+| data | [froth](https://github.com/metagn/froth) | tagged pointer types with destructors |
 | language | [ketin](https://github.com/holo-nim/ketin) | relational compile time accumulator |
 | language | [holo-match](https://github.com/holo-nim/holo-match) | nested/overloadable pattern matching |
 | language | [skinsuit](https://github.com/holo-nim/skinsuit) | stackable utility macros for object variants |
@@ -34,7 +35,6 @@ Misc:
 | category | library | description | 
 | --: | :-- | :-- |
 | data | [flop](https://github.com/metagn/flop) | overloadable tagless invalid-state-based option types |
-| data | [froth](https://github.com/metagn/froth) | tagged pointer types with destructors |
 | language | [applicates](https://github.com/metagn/applicates) | first-class templates/symbols |
 
 _installable with [nimble](https://github.com/nim-lang/nimble): `nimble install <url>`_
